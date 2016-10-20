@@ -1,6 +1,7 @@
 # logos4gsc
 青山学院大学・地球社会共生学部のロゴ、キャラクターデータ置き場
 
+<img width="747" alt="2016-10-20 11 30 33" src="https://github.com/gsc-aoyama/logos4gsc/blob/master/GSC_logo.png?raw=true">
 
 青山学院大学 地球社会共生学部 公開ドキュメントレポジトリ
 本リポジトリ内に格納されいている資料は、断りのない限りクリエイティブ・コモンズ・ライセンスのCC BY-NC-SA 4.0 を適用します。
