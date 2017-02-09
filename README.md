@@ -8,6 +8,9 @@
 
 Copyright © School of Global Studies and Collaboration, Aoyama Gakuin University, CC BY-NC-SA 4.0
 
+![gsclogos](https://cloud.githubusercontent.com/assets/416977/22771080/f660757a-eed7-11e6-8dce-d8b282efbf79.png)
+
+
 https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja
 
 
