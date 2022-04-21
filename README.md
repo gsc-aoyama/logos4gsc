@@ -1,6 +1,10 @@
 # logos4gsc
 青山学院大学・地球社会共生学部のロゴ、キャラクターデータ置き場
 
+## カラーコード
+#479e88
+
+
 <img width="747" alt="2016-10-20 11 30 33" src="https://github.com/gsc-aoyama/logos4gsc/blob/master/GSC_logo.png?raw=true">
 
 青山学院大学 地球社会共生学部 公開ドキュメントレポジトリ
