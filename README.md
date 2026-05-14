@@ -6,7 +6,7 @@
 
 ## ロゴ切り取りデータ
 * [標準(セリフ体) 緑](https://github.com/gsc-aoyama/logos4gsc/blob/master/GSC_Logo_normal_green.svg)
-* 
+* [標準(セリフ体)日本語 黒](https://github.com/gsc-aoyama/logos4gsc/blob/master/GSC_Logo_normal_ja_black.svg)
 
 <img width="747" alt="2016-10-20 11 30 33" src="https://github.com/gsc-aoyama/logos4gsc/blob/master/GSC_logo.png?raw=true">
 
